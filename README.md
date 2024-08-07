@@ -46,3 +46,5 @@ Sau khi cài đặt xong và và bạn có thế vào trình duyệt và login v
 
 Username: admin@admin.com
 Password: secret
+
+## Xem thêm tại: https://viblo.asia/p/cach-cai-dat-du-an-laravel-clone-tu-github-63vKjkpkZ2R
